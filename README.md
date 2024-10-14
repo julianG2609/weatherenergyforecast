@@ -1,4 +1,4 @@
-#Intro
+# Intro
 The global shift towards clean and renewable energy sources has highlighted
 the role of solar energy in fostering environmental sustainability. This practical
 assignment focuses on the development of machine learning models with the
@@ -11,7 +11,7 @@ The dataset utilized for this project encompasses data related to energy produc-
 tion from specific solar panels in the city of Braga, spanning from September
 2021 to April 2023.
 
-#Overview
+# Overview
 The aim was to develop the best possible model capable of
 predicting the amount of energy, in kWh, produced by solar panels and injected
 into existing electricity grids at each hour of the day.
@@ -23,7 +23,7 @@ in the test dataset ("energia_202301-202304.csv"), the amount of energy injected
 into the electrical network at a specific point in time, using the scale None, Low,
 Medium, High, and Very_High.
 
-#Conclusion
+# Conclusion
 We managed to get good results by our approach on improving our models step by
 step. To further improve the prediction performance, we could consider expanding
 the dataset to include more data from various geographical regions and different
